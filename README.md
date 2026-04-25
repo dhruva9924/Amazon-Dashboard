@@ -2,12 +2,12 @@
 
 Create a system to gather product and sales information from online retail sites, analyze it, and develop an interactive analytics dashboard for business insights.
 
-1.Requirements : Extract automatically,Item designation,Classification,Cost,Ratings,Accessibility,Organize information in a structured format (CSV)
+1. Requirements : Extract automatically,Item designation,Classification,Cost,Ratings,Accessibility,Organize information in a structured format (CSV)
 
 The client lacks organized internal data.
 Requires market data in real-time or nearly real-time.
 
-2.Architecture of the Solution (Complete Process)
+2. Architecture of the Solution (Complete Process)
 Data Extraction by web scrapping. (Python)
 CSV Document (Unprocessed Data)
 Power BI (Data Preparation & Structuring)
